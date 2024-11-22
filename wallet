@@ -1,0 +1,47 @@
+bitcoin:bc1q0jhh5zvv2wylj467ve4yw04en30mqyzgzqmscv?amount=4.05417348bc1qwqdg6squsna38e46795at95yu9atm8azzmyvckulcc7kytlcckxswvvzej
+  "txid": "f20b6d54003c0648caf53252e8a84553716c8b7c3ca848b33deea3ab4c1775d3",
+  "size": 223,
+  "version": 1,
+  "locktime": 0,
+  "fee": 1420,
+  "inputs": [
+    {
+      "coinbase": false,
+      "txid": "582b934a871c4e8524185575f0b59c46bad42ea061f750042241208115e48817",
+      "output": 1,
+      "sigscript": "",
+      "sequence": 4294967295,
+      "pkscript": "00148f033a5902fe0a002408d328e59105b91eaf2282",
+      "value": 75559000,
+      "address": "bc1q3upn5kgzlc9qqfqg6v5wtyg9hy027g5z2wht76",
+      "witness": [
+        "30440220146c094ee20da5c248adfc0d2cec054cd179a9a6480af6e8889bd5b15f3a2be7022063b21f1adb1182e0a31e0fd84621a0f8c9a6cc73c015d5637604de6d01c792b601",
+        "022a09e5939d1a0aeee7943a070c1dc08e5bac97dc2b885adccb702ef13ccaa02a"
+      ]
+    }
+  ],
+  "outputs": [
+    {
+      "address": "3EnboiAXLhz2ij5ZuZ54mbeSVMKjHRMYQ1",
+      "pkscript": "a9148fa7ff989fec3ef4edcd0a63bdec2da6e5f1f6ab87",
+      "value": 75000000,
+      "spent": false,
+      "spender": null
+    },
+    {
+      "address": "bc1q3upn5kgzlc9qqfqg6v5wtyg9hy027g5z2wht76",
+      "pkscript": "00148f033a5902fe0a002408d328e59105b91eaf2282",
+      "value": 557580,
+      "spent": false,
+      "spender": null
+    }
+  ],
+  "block": {
+    "mempool": 1732268931
+  },
+  "deleted": false,
+  "time": 1732268931,
+  "rbf": false,
+  "weight": 565
+}
+Explore top 
