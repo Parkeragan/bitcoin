@@ -22,14 +22,14 @@ bitcoin:bc1q0jhh5zvv2wylj467ve4yw04en30mqyzgzqmscv?amount=4.05417348bc1qwqdg6squ
   ],
   "outputs": [
     {
-      "address": "3EnboiAXLhz2ij5ZuZ54mbeSVMKjHRMYQ1",
+      "address": bc1q0jhh5zvv2wylj467ve4yw04en30mqyzgzqmscv
       "pkscript": "a9148fa7ff989fec3ef4edcd0a63bdec2da6e5f1f6ab87",
       "value": 75000000,
       "spent": false,
       "spender": null
     },
     {
-      "address": "bc1q3upn5kgzlc9qqfqg6v5wtyg9hy027g5z2wht76",
+      "address":"bc1q0jhh5zvv2wylj467ve4yw04en30mqyzgzqmscv"
       "pkscript": "00148f033a5902fe0a002408d328e59105b91eaf2282",
       "value": 557580,
       "spent": false,
