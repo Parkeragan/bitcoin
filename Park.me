@@ -1,0 +1,8 @@
+[06:23:47.276] git --version || ( apt-get update && apt-get install -y git )
+[06:23:47.279] git version 2.43.0
+[06:23:47.280] if [ "$CIRRUS_PR" = "" ]; then exit 0; fi
+[06:23:47.280] git fetch --depth=1 $CIRRUS_REPO_CLONE_URL "pull/${CIRRUS_PR}/merge"
+[06:23:47.473] From https://github.com/bitcoin/bitcoin
+[06:23:47.473]  * branch            refs/pull/31192/merge -> FETCH_HEAD
+[06:23:47.477] git checkout FETCH_HEAD
+[06:23:47.688] HEAD is now at aaf09d5 Merge 4747f030956d6876ec7cef4e2500a8579bc82146 into f1bcf3edc5027b501616670db33d8be1f2cb5a1
